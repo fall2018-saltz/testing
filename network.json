@@ -11,7 +11,7 @@
                     "type": "csv"
                 }
             ],
-            "source": "Satisfaction_Survey.csv",
+            "source": "SatisfactionSurvey.csv",
             "target": "clean.R"
         },
         {
@@ -27,7 +27,7 @@
     ],
     "nodes": [
         {
-            "name": "Satisfaction_Survey.csv"
+            "name": "SatisfactionSurvey.csv"
         },
         {
             "name": "clean.R"
@@ -36,6 +36,6 @@
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-09-26 21:22:33",
+    "updated_at": "2018-09-26 21:23:45",
     "url": "https://github.com/fall2018-saltz/testing"
 }
