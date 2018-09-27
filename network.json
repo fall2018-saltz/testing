@@ -23,6 +23,16 @@
             ],
             "source": "clean.R",
             "target": "data.csv"
+        },
+        {
+            "ports": [
+                {
+                    "output": "output",
+                    "type": "txt"
+                }
+            ],
+            "source": "clean.R",
+            "target": "out.txt"
         }
     ],
     "nodes": [
@@ -39,6 +49,6 @@
             "name": "out.txt"
         }
     ],
-    "updated_at": "2018-09-27 14:45:26",
+    "updated_at": "2018-09-27 14:45:39",
     "url": "https://github.com/fall2018-saltz/testing"
 }
