@@ -5,7 +5,7 @@ head(clean_data)
 
 
 
-otuput <- 'test'
+output <- 'test'
 
 output
 
